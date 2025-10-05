@@ -1,10 +1,10 @@
-# MindSync – Real-Time Collaborative Knowledge Map
+MAHI (MindSync – Real-Time Collaborative Knowledge Map) is inspired by the legendary Mahendra Singh Dhoni (MSD) — a symbol of calmness, clarity, and strategic brilliance.
 
-🧠 Concept
+Just like Dhoni leads with composure and vision, Mahi helps you think, plan, and create with focus. It’s a space where ideas flow like Dhoni’s decisions on the field — smart, precise, and impactful.
 
-MindSync is not a regular “note-taking” or “to-do” app. Instead, it’s a visual knowledge brain where ideas are represented as nodes and connections as edges.
-Unlike traditional tools (Google Docs, Notion), this one gives you a living, glowing map of your knowledge – and multiple people can edit it together in real-time.
+Built for thinkers, learners, and teams, Mahi lets you visualize your thoughts as connected nodes, collaborate in real time, and turn scattered ideas into structured knowledge.
 
+With Mahi, you don’t just draw a map — you build your mindset, one node at a time.
 🎯 Core Features
 1. Landing Page
 
